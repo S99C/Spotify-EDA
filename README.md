@@ -2,10 +2,11 @@
 Performed exploratory data analysis on spotify dataset to find out key insights from the data.
 
 ##References<br>
-1. Datasets used:
-i. https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
+Datasets used:<br>
+1. https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db
 
-ii. https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv
+2. https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv
 
-##Steps performed:
-1. 
+##Steps performed:<br>
+1. Drawn various crucial insights from the data by filtering and sorting data as per the requirement.
+2. Prepared graphs for understanding correlation between various variables.
