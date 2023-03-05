@@ -12,3 +12,7 @@ Datasets used:<br>
 2. Prepared graphs for understanding correlation between various variables.
 
 ## Sample:<br>
+
+![corr](https://user-images.githubusercontent.com/79993232/222967059-660e2eba-caf2-42af-b3d9-db39a7ff0329.png)
+
+![newplot](https://user-images.githubusercontent.com/79993232/222967510-fea212ca-d43f-42f6-9a25-7973f7477ee2.png)
