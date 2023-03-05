@@ -8,10 +8,9 @@ Datasets used:<br>
 2. https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=artists.csv
 
 ## Steps performed:<br>
+Detailed procedure can be found in the main.ipynb file.
 1. Drawn various crucial insights from the data by filtering and sorting data as per the requirement.
 2. Prepared graphs for understanding correlation between various variables.
-
-### Detailed procedure can be found in the main.ipynb file.
 
 ## Libraries used:<br>
 Numpy, Pandas, Matplotlib, Seaborn, Plotly
