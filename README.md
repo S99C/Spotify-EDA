@@ -13,4 +13,5 @@ Datasets used:<br>
 
 ## Sample:<br>
 ![corr](https://user-images.githubusercontent.com/79993232/222967059-660e2eba-caf2-42af-b3d9-db39a7ff0329.png)
-![newplot](https://user-images.githubusercontent.com/79993232/222967069-7f56b526-328a-4574-aa20-576daaebc4b6.png)
+
+![newplot](https://user-images.githubusercontent.com/79993232/222967280-fa0cd7dc-b030-4857-a7ef-bc2ec77d9c39.png)
