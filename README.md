@@ -11,7 +11,7 @@ Datasets used:<br>
 1. Drawn various crucial insights from the data by filtering and sorting data as per the requirement.
 2. Prepared graphs for understanding correlation between various variables.
 
-   Detailed procedure can be found in the main.ipynb file.
+\tDetailed procedure can be found in the main.ipynb file.
 
 ## Libraries used:<br>
 Numpy, Pandas, Matplotlib, Seaborn, Plotly
