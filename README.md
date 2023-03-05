@@ -10,3 +10,5 @@ Datasets used:<br>
 ## Steps performed:<br>
 1. Drawn various crucial insights from the data by filtering and sorting data as per the requirement.
 2. Prepared graphs for understanding correlation between various variables.
+
+## Sample:<br>
