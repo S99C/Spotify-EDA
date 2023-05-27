@@ -13,7 +13,11 @@ Datasets used:<br>
 2. Prepared graphs for understanding correlation between various variables.
 
 ## Libraries used:<br>
-Numpy, Pandas, Matplotlib, Seaborn, Plotly
+Numpy
+Pandas
+Matplotlib
+Seaborn
+Plotly
 
 ## Sample:<br>
 
