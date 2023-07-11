@@ -9,7 +9,7 @@ Datasets used:<br>
 
 ## Steps performed:<br>
 (Detailed insights can be found in the main.ipynb file)
-1. Read data from a csv file, performed data cleaning and dealt with null values.
+1. Read data from csv files, performed data cleaning and dealt with null values.
 2. Drawn various crucial insights from the data by filtering and sorting data as per the requirement.
 3. Prepared graphs for understanding correlation between various variables.
 
